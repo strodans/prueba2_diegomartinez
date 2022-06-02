@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+.mini-menu{
+    font-size: small;
+    position: relative;
+    
+}
+
+.Ayuda, .Registro, .Login  {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+
+.menu, .navbar {
+    color: black;
+    margin: 2px;
+    text-decoration: none; 
+    background-color: rgb(0, 0, 0);
+}
+
+.home, .zapatillas, .formulario{
+    color: black;
+    margin: 20px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.logo{
+    filter: brightness(1.1);
+}
+
+
+.productos h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px  15px ;
+    font-size: 160%;
+}
+
+
+
+
+.footer {
+    position: relative;
+    z-index: 100;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #b9f8e8;
+    text-align: center;
+}
+
+
+.form{
+    text-align: center;
+    position: fixed;
+    width: 30%;
+    left: 600px;
+    top: 300px;
+}
+
+
